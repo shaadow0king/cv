@@ -10970,3 +10970,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.icon {
+  width: 20px;
+  height: 20px;
+  max-width: 100%;
+  vertical-align: middle;
+  margin-right: 8px;
+}
