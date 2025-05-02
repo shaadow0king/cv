@@ -10992,4 +10992,6 @@ section.resume-section .resume-section-content {
   height: 40px;
   margin-bottom: 8px;
 }
+.icon-dark {
+  filter: brightness(0%) contrast(100%);
 }
