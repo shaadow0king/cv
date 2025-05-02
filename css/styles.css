@@ -10970,10 +10970,26 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-.icon {
-  width: 20px;
-  height: 20px;
-  max-width: 100%;
-  vertical-align: middle;
-  margin-right: 8px;
+.icon-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.icon-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.icon-item img {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 8px;
+}
 }
