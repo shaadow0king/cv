@@ -10984,3 +10984,6 @@ section.resume-section .resume-section-content {
 .icon-dark {
   filter: brightness(0%) contrast(100%);
 }
+.bg-primary {
+  background-color: #a3b9d2 !important;  /* пастельно-синий */
+}
